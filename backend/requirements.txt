@@ -1,4 +1,4 @@
-Django==2.2.3
+Django==2.2.13
 django-cors-headers==3.0.2
 djangorestframework==3.10.1
 pyspark==2.4.1
